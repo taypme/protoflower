@@ -1,0 +1,28 @@
+{
+  "name": "protoflower",
+  "version": "1.1.2",
+  "description": "useful prototypes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorevanson/protoflower.git"
+  },
+  "keywords": [
+    "prototype",
+    "protoflower"
+  ],
+  "author": "taytayevanson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorevanson/protoflower/issues"
+  },
+  "homepage": "https://github.com/taylorevanson/protoflower#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "ws": "^8.5.0"
+  }
+}
